@@ -177,7 +177,6 @@ button {
     border: 2px solid var(--color-boton-borde);
     background-color: var(--color-texto-secundario);
     color: var(--color-boton-texto);
-    border: none;
 }
 
 .boton-copiar {
